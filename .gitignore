@@ -1,0 +1,14 @@
+# Neovim
+plugin/
+pack/
+.lazy/
+cache/
+logs/
+
+# OS
+.DS_Store
+
+# Swap / undo
+*.swp
+*.swo
+*~
