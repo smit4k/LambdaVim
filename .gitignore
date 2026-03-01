@@ -5,6 +5,8 @@ pack/
 cache/
 logs/
 
+
+lazy-lock.json
 # OS
 .DS_Store
 
