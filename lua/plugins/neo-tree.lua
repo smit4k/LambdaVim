@@ -12,16 +12,11 @@ return {
 		},
 	},
 	opts = {
-		filesystem = {
-			follow_current_file = true,
-			use_libuv_file_watcher = true,
-		},
 		window = {
 			position = "left",
 			width = 35,
 		},
 		filesystem = {
-			follow_current_file = true,
 			use_libuv_file_watcher = true,
 		},
 	},
