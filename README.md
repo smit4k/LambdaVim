@@ -1,4 +1,4 @@
-# LambdaVim [ λ ]
+# LambdaVim
 A minimal, modern Neovim configuration designed for developers who want a clean and productive editing experience without the bloat. Everything is in your control. Also beginner friendly!
 
 ## Requirements
