@@ -17,6 +17,8 @@ vim.o.signcolumn = "yes"
 -- clipboard
 vim.opt.clipboard = "unnamedplus"
 
+vim.opt.fillchars:append({ eob = " " })
+
 vim.api.nvim_create_autocmd("WinEnter", {
 	callback = function()
 		if vim.bo.filetype:match("noice") or vim.bo.filetype:match("Telescope") then
